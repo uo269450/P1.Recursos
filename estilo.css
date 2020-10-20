@@ -20,6 +20,14 @@ h2{
         text-decoration: underline;
 }
 
+/*
+ul{
+    display:block;
+    margin-left: auto;
+    margin-left: auto;
+}
+*/
+
 p{
     font-size: 20px;
     text-align: justify;
@@ -46,7 +54,9 @@ footer{
 img{
     border: 6px linen white;
     display: block;
-    vertical-align: middle;
+    width:  700px;
+    height: 400px;
+    float: inherit;
 }
 
 #historia{
@@ -85,4 +95,10 @@ img{
     margin-right: 30%;
     margin-bottom: 5%;
     
+}
+
+#imagenes{
+   
+    display: table-cell;
+    vertical-align: middle
 }
