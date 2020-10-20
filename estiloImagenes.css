@@ -1,13 +1,9 @@
-
-
-p img{
+p {
     margin: auto;
-   
     border: 4px solid white;
 }
 
-img{
-        width: 400;
-        height: 300;
+img {
+    width: 400;
+    height: 300;
 }
-
