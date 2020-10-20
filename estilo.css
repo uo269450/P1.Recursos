@@ -4,24 +4,12 @@ body {
     background-image: url('multimedia/panoramic.jpg');
 }
 
-body section {
-    margin: auto;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-
-body section audio {
-    margin: auto;
-}
-
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 300%;
     color: black;
     background-color: yellow;
     border: 5px dashed white;
-    margin-left: 30%;
-    margin-right: 30%;
 }
 
 h2 {
@@ -29,7 +17,6 @@ h2 {
 }
 
 p {
-    font-size: 20px;
     text-align: justify;
     color: black;
 }
@@ -45,13 +32,11 @@ footer {
 }
 
 #historia {
-    width: 50%;
     background-color: lightgreen;
     border: 5px solid greenyellow;
 }
 
 #introduccion {
-    width: 60%;
     background-color: yellow;
     border: 4px dashed green;
 }
@@ -72,8 +57,4 @@ footer {
     background-color: yellow;
     border: 3px dashed orange;
     width: 30%;
-}
-
-#musica p {
-    text-align: center;
 }

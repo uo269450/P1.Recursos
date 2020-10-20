@@ -1,0 +1,39 @@
+body section {
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+body section audio {
+    margin: auto;
+}
+
+h1 {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2%;
+}
+
+#historia {
+    width: 50%;
+}
+
+#introduccion {
+    width: 60%;
+}
+
+#protagonistas {
+    width: 30%;
+}
+
+#bandasonora {
+    width: 30%;
+}
+
+#musica {
+    width: 30%;
+}
+
+#musica p {
+    text-align: center;
+}
