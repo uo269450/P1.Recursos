@@ -24,6 +24,7 @@ p {
 nav {
     background-color: yellow;
     border: 4px dashed black;
+    line-height: 30px;
 }
 
 footer {
