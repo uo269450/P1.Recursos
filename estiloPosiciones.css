@@ -4,6 +4,10 @@ body section {
     margin-bottom: 5%;
 }
 
+video source {
+    margin: auto;
+}
+
 body section audio {
     margin: auto;
 }
